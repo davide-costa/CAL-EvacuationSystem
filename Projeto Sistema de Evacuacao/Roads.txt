@@ -1,0 +1,26 @@
+1; Rua Dr.Placido da Costa; TRUE
+2; Rua Dr.Roberto Frias; TRUE
+3; Rua Fabrica do bairro da Areosa; TRUE
+4; Avenida Sao Gonçalo; TRUE
+5; Avenida Sao Tiago; TRUE
+6; Travessa da Carreira; TRUE
+7; Rua Pedro Teixeira; TRUE
+8; Rua Dr. Manuel Pereira da Silva; TRUE
+9; Rua Silva Tapada; TRUE
+10; Rua Agostinho de Campos; TRUE
+11; Rua Combatentes da Grande Guerra; TRUE
+12; Rua Alcantara; TRUE
+13; Rua Campolide; TRUE
+14; Rua do Porto Feliz; TRUE
+15; Rua Henrique de Sousa Martins; TRUE
+16; Avenida Infante Sagres; TRUE
+17; Avenida Sao Rosendo; TRUE
+18; Rua Ferreira de Lemos; TRUE
+19; Rua Luis de Camoes; TRUE
+20; Travessa de Antero de Quental; TRUE
+21; Travessa dos Congregados; TRUE
+22; Avenida da Boavista; TRUE
+23; Avenida Frei Bartolomeu; TRUE
+24; Rua da Misericordia; TRUE
+25; Rua Dona Maria Pia; TRUE
+26; Rua de Paredes; TRUE

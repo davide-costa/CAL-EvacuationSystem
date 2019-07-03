@@ -1,0 +1,4 @@
+12-DB-32 02/2016; Rua Fabrica do bairro da Areosa; Rua de Paredes
+12-DB-33 02/2016; Avenida SAo Tiago; Rua Luis de CamOes
+12-DB-34 02/2016; Rua Alctara; Rua de Paredes
+12-DB-35 02/2016; Rua Luis de CamOes ; Avenida Infante Sagres
